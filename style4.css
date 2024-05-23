@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(248, 248, 248);
+}
+
+h1 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(1, 5, 8);
+}
+h2 {
+  text-align: center;
+  font-size: xx-large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(42, 5, 88);
+}
+p1 {
+  color: rgb(80, 43, 6);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bolder;
+  font-size: xx-large;
+}
